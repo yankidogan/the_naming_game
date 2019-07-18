@@ -1,4 +1,4 @@
-# The Naming Game
+# Naming Game Model with Trust Mechanics
 
 The naming  game is a language game model proposed by Luc Steels. The model defines a simple process in which a number of artificial agents try to name a set of available objects around them. In  particular, they try to establish a shared convention about these object names by following a pair-wise communication pattern.
 
